@@ -1,0 +1,1051 @@
+[
+  {
+    "title": "RSU Dr. Zainoel Abidin Banda Aceh",
+    "address": "Jl. Teuku Moh. Daud Beureueh No.108, Bandar Baru, Kec. Kuta Alam, Kota Banda Aceh, Aceh 24415",
+    "phone": "(0651) 34565",
+    "coordinates": {
+      "latitude": 5.563787,
+      "longitude": 95.337588
+    }
+  },
+  {
+    "title": "RSUD Cut Meutia Kab. Aceh Utara",
+    "address": " Jl. Medan Banda Aceh, Bulat Rata, Blang Mangat, Kota Lhokseumawe, Aceh 24355",
+    "phone": "(0645) 46334",
+    "coordinates": {
+      "latitude": 5.122298,
+      "longitude": 97.156372
+    }
+  },
+  {
+    "title": "Rumah Sakit Umum Pusat H. Adam Malik",
+    "address": "Jl. Bunga Lau No.17, Kemenangan Tani, Kec. Medan Tuntungan, Kota Medan, Sumatera Utara 20136 ",
+    "phone": "(061) 8360143",
+    "coordinates": {
+      "latitude": 3.518698,
+      "longitude": 98.608552
+    }
+  },
+  {
+    "title": "Rumah Sakit Umum Kabanjahe",
+    "address": " Jl. Selamat Ketaren No.08, Lau Cimba, Kabanjahe, Kabupaten Karo, Sumatera Utara 22111 ",
+    "phone": "(0628) 20012",
+    "coordinates": {
+      "latitude": 3.098221,
+      "longitude": 98.491651
+    }
+  },
+  {
+    "title": "Pematang Siantar Public Hospital",
+    "address": "Jl. Sutomo No.230, Simalungun, Kec. Siantar Sel., Kota Pematang Siantar, Sumatera Utara 21121 ",
+    "phone": "(0622) 22959",
+    "coordinates": {
+      "latitude": 2.958471,
+      "longitude": 99.069738
+    }
+  },
+  {
+    "title": "Rumah Sakit Umum Daerah Tarutung",
+    "address": " Jalan Bin Harun Said No.1 Hutagalung Siwaluompu, Tarutung, Kabupaten Tapanuli Utara, Sumatera Utara 22411",
+    "phone": "(0633) 21303",
+    "coordinates": {
+      "latitude": 2.027096,
+      "longitude": 98.960721
+    }
+  },
+  {
+    "title": "RSU Padang Sidempuan",
+    "address": "JL. Dr. F.L. Tobing, Kantin, Padangsidimpuan Utara, Kota Padang Sidempuan, Sumatera Utara 22719 ",
+    "phone": "Nomor tidak ada",
+    "coordinates": {
+      "latitude": 1.372722,
+      "longitude": 99.272284
+    }
+  },
+  {
+    "title": "RSUP Dr. M. Djamil Padang",
+    "address": "Jl. Perintis Kemerdekaan, Sawahan Tim., Kec. Padang Tim., Kota Padang, Sumatera Barat 25171 ",
+    "phone": "(0751) 32371",
+    "coordinates": {
+      "latitude": -0.94313,
+      "longitude": 100.368515
+    }
+  },
+  {
+    "title": "RSUD Dr. Achmad Mochtar Kota Bukittinggi",
+    "address": "Jl. Dr. Abdul Rivai No.1 Bukit Apit Puhun, Kec. Guguk Panjang, Kota Bukittinggi, Sumatera Barat 26122",
+    "phone": "(0752) 21720",
+    "coordinates": {
+      "latitude": -0.299573,
+      "longitude": 100.366122
+    }
+  },
+  {
+    "title": "RUMAH SAKIT UMUM DUMAI",
+    "address": "Jl. Tj. Jati No.4, Buluh Kasap, Dumai Tim., Kota Dumai, Riau 28812",
+    "phone": "(0765) 440992",
+    "coordinates": {
+      "latitude": 1.680516,
+      "longitude": 101.459546
+    }
+  },
+  {
+    "title": "RSUD Puri Husada Tembilahan",
+    "address": "Jl. Veteran No.52, Tembilahan Hilir, Tembilahan, Kabupaten Indragiri Hilir, Riau 29281",
+    "phone": "(0768) 22118",
+    "coordinates": {
+      "latitude": -0.322724,
+      "longitude": 103.163169
+    }
+  },
+  {
+    "title": "RSUD Embung Fatimah",
+    "address": "Jl. Letjend Suprapto No.1-9 Bukit Tempayan, Kec. Batu Aji, Kota Batam, Kepulauan Riau 29425",
+    "phone": "(0778) 364446",
+    "coordinates": {
+      "latitude": 1.050653,
+      "longitude": 103.967625
+    }
+  },
+  {
+    "title": "Rumah Sakit BP Batam",
+    "address": "Jalan Cipto Mangunkusumo No.01 Tj. Pinggir, Kec. Sekupang, Kota Batam, Kepulauan Riau 20444",
+    "phone": "(0778) 322121",
+    "coordinates": {
+      "latitude": 1.137572,
+      "longitude": 103.931937
+    }
+  },
+  {
+    "title": "RSUD Raja Ahmad Tabib",
+    "address": "Jl. Daeng Celak KM.8 No.100, Air Raja, Kec. Tanjungpinang Tim., Kota Tanjung Pinang, Kepulauan Riau 29125",
+    "phone": "(0771) 7335203",
+    "coordinates": {
+      "latitude": 0.924009,
+      "longitude": 104.500089
+    }
+  },
+  {
+    "title": "RSUD Muhammad Sani Kab. Karimun",
+    "address": "Jalan Poros No.1 Harjosari, Tebing, Kabupaten Karimun, Kepulauan Riau 29663",
+    "phone": "(0777) 327808",
+    "coordinates": {
+      "latitude": 1.013802,
+      "longitude": 103.413771
+    }
+  },
+  {
+    "title": "RSUD Raden Mattaher Jambi",
+    "address": "Jl. Letjen Suprapto No.31 Telanaipura, Kec. Telanaipura, Kota Jambi, Jambi 36361",
+    "phone": "(0741) 61692",
+    "coordinates": {
+      "latitude": -1.602677,
+      "longitude": 103.580213
+    }
+  },
+  {
+    "title": "RSUP Dr. M. Hoesin Palembang",
+    "address": "",
+    "phone": "",
+    "coordinates": {
+      "latitude": -2.965899,
+      "longitude": 104.750202
+    }
+  },
+  {
+    "title": "Rumah Sakit Umum Daerah Kayu Agung",
+    "address": "",
+    "phone": "",
+    "coordinates": {
+      "latitude": -3.407646,
+      "longitude": 104.824939
+    }
+  },
+  {
+    "title": "Rumah Sakit Umum Daerah Lahat",
+    "address": "",
+    "phone": "",
+    "coordinates": {
+      "latitude": -3.792489,
+      "longitude": 103.534268
+    }
+  },
+  {
+    "title": "RSUD Siti Aisyah Lubuh Linggau",
+    "address": "",
+    "phone": "",
+    "coordinates": {
+      "latitude": -3.271591,
+      "longitude": 102.915534
+    }
+  },
+  {
+    "title": "RSUD Siti Fatimah Provinsi Sumatera Selatan",
+    "address": "",
+    "phone": "",
+    "coordinates": {
+      "latitude": -2.948888,
+      "longitude": 104.734446
+    }
+  },
+  {
+    "title": "RSUP Dr. Rivai Abdullah",
+    "address": "",
+    "phone": "",
+    "coordinates": {
+      "latitude": -2.979435,
+      "longitude": 104.863435
+    }
+  },
+  {
+    "title": "RSUD Dr. H. Marsidi Judono",
+    "address": "",
+    "phone": "",
+    "coordinates": {
+      "latitude": -2.745039,
+      "longitude": 107.678139
+    }
+  },
+  {
+    "title": "RSUD Depati Hamzah",
+    "address": "",
+    "phone": "",
+    "coordinates": {
+      "latitude": -2.141845,
+      "longitude": 106.124612
+    }
+  },
+  {
+    "title": "RSUD Dr. M. Yunus Bengkulu",
+    "address": "",
+    "phone": "",
+    "coordinates": {
+      "latitude": -3.834107,
+      "longitude": 102.314049
+    }
+  },
+  {
+    "title": "RSUD Arga Makmur",
+    "address": "",
+    "phone": "",
+    "coordinates": {
+      "latitude": -3.437311,
+      "longitude": 102.191276
+    }
+  },
+  {
+    "title": "RSUD Hasanuddin Damrah Manna",
+    "address": "",
+    "phone": "",
+    "coordinates": {
+      "latitude": -4.44201,
+      "longitude": 102.896361
+    }
+  },
+  {
+    "title": "RSUD Dr. H. Abdul Moeloek Provinsi Lampung",
+    "address": "",
+    "phone": "",
+    "coordinates": {
+      "latitude": -5.402891,
+      "longitude": 105.258604
+    }
+  },
+  {
+    "title": "RSUD Dr. H. Bob Bazar, SKM",
+    "coordinates": {
+      "latitude": -5.727291,
+      "longitude": 105.596529
+    }
+  },
+  {
+    "title": "RSD Mayjend HM Ryacudu",
+    "coordinates": {
+      "latitude": -4.832377,
+      "longitude": 104.891491
+    }
+  },
+  {
+    "title": "RSUD Jend Ahmad Yani Metro",
+    "coordinates": {
+      "latitude": -5.115489,
+      "longitude": 105.310123
+    }
+  },
+  {
+    "title": "Rumah Sakit Penyakit Infeksi Prof. Dr. Sulianti Saroso",
+    "coordinates": {
+      "latitude": -6.129883,
+      "longitude": 106.862241
+    }
+  },
+  {
+    "title": "RS PERSAHABATAN",
+    "coordinates": {
+      "latitude": -6.202401,
+      "longitude": 106.885051
+    }
+  },
+  {
+    "title": "Rumah Sakit Pusat Angkatan Darat Gatot Soebroto",
+    "coordinates": {
+      "latitude": -6.175862,
+      "longitude": 106.837611
+    }
+  },
+  {
+    "title": "Rumah Sakit Umum Pusat Fatmawati",
+    "coordinates": {
+      "latitude": -6.29458,
+      "longitude": 106.79553
+    }
+  },
+  {
+    "title": "RSUD Tarakan Jakarta",
+    "coordinates": {
+      "latitude": -6.171509,
+      "longitude": 106.810402
+    }
+  },
+  {
+    "title": "Rumah Sakit Umum Daerah Pasar Rebo",
+    "coordinates": {
+      "latitude": -6.303401,
+      "longitude": 106.86205
+    }
+  },
+  {
+    "title": "RS Umum Bhayangkara Tk. I R. Said Sukanto",
+    "coordinates": {
+      "latitude": -6.269351,
+      "longitude": 106.870655
+    }
+  },
+  {
+    "title": "RSAL Mintoharjo",
+    "coordinates": {
+      "latitude": -6.210787,
+      "longitude": 106.811449
+    }
+  },
+  {
+    "title": "Rumah Sakit Umum Pusat Dr. Hasan Sadikin Bandung",
+    "coordinates": {
+      "latitude": -6.89619,
+      "longitude": 107.598855
+    }
+  },
+  {
+    "title": "Rumah Sakit Paru Dr. H. A. Rotinsulu",
+    "coordinates": {
+      "latitude": -6.878604,
+      "longitude": 107.606007
+    }
+  },
+  {
+    "title": "RSD Gunung Jati Kota Cirebon",
+    "coordinates": {
+      "latitude": -6.730589,
+      "longitude": 108.555399
+    }
+  },
+  {
+    "title": "Rumah Sakit Umum Dokter Slamet Garut",
+    "coordinates": {
+      "latitude": -7.219542,
+      "longitude": 107.897015
+    }
+  },
+  {
+    "title": "RSUD Sekarwangi Sukabumi",
+    "coordinates": {
+      "latitude": -6.896449,
+      "longitude": 106.793177
+    }
+  },
+  {
+    "title": "Rumah Sakit Umum Daerah Kabupaten Indramayu",
+    "coordinates": {
+      "latitude": -6.329252,
+      "longitude": 108.32156
+    }
+  },
+  {
+    "title": "Rumah Sakit Paru Dr. M. Goenawan Partowidigdo",
+    "coordinates": {
+      "latitude": -6.687508,
+      "longitude": 106.939054
+    }
+  },
+  {
+    "title": "Rumah Sakit Dustira",
+    "coordinates": {
+      "latitude": -6.885112,
+      "longitude": 107.53463
+    }
+  },
+  {
+    "title": "RSU Kabupaten Tangerang",
+    "coordinates": {
+      "latitude": -6.169496,
+      "longitude": 106.635633
+    }
+  },
+  {
+    "title": "RSUD Dr. Drajat Prawiranegara",
+    "coordinates": {
+      "latitude": -6.119688,
+      "longitude": 106.152623
+    }
+  },
+  {
+    "title": "RSUP Dr. KARIADI",
+    "coordinates": {
+      "latitude": -6.993946,
+      "longitude": 110.407479
+    }
+  },
+  {
+    "title": "RSUP dr. Soeradji Tirtonegoro Klaten",
+    "coordinates": {
+      "latitude": -7.714141,
+      "longitude": 110.588687
+    }
+  },
+  {
+    "title": "RSUD Prof. Dr. Margono Soekarjo",
+    "coordinates": {
+      "latitude": -7.436417,
+      "longitude": 109.267377
+    }
+  },
+  {
+    "title": "RSUD Kraton Kab. Pekalongan",
+    "coordinates": {
+      "latitude": -6.873909,
+      "longitude": 109.667562
+    }
+  },
+  {
+    "title": "RSUD Dr Soeselo Slawi Kab. Tegal",
+    "coordinates": {
+      "latitude": -6.992865,
+      "longitude": 109.137761
+    }
+  },
+  {
+    "title": "Rumah Sakit Umum Daerah RAA Soewondo",
+    "coordinates": {
+      "latitude": -6.738464,
+      "longitude": 111.043182
+    }
+  },
+  {
+    "title": "RSUD Tidar Kota Magelang",
+    "coordinates": {
+      "latitude": -7.485289,
+      "longitude": 110.218249
+    }
+  },
+  {
+    "title": "RSUD Dr. Moewardi Surakarta",
+    "coordinates": {
+      "latitude": -7.557282,
+      "longitude": 110.841572
+    }
+  },
+  {
+    "title": "RSUD Banyumas",
+    "coordinates": {
+      "latitude": -7.528899,
+      "longitude": 109.292678
+    }
+  },
+  {
+    "title": "RSUD Dr. Lukmonohadi Kudus",
+    "coordinates": {
+      "latitude": -6.818649,
+      "longitude": 110.83661
+    }
+  },
+  {
+    "title": "Rumah Sakit Paru Dr. Ario Wirawan",
+    "coordinates": {
+      "latitude": -7.350316,
+      "longitude": 110.488752
+    }
+  },
+  {
+    "title": "RSUD K.R.M.T Wongsonegoro Kota Semarang",
+    "coordinates": {
+      "latitude": -7.029553,
+      "longitude": 110.466833
+    }
+  },
+  {
+    "title": "Rumah Sakit Umum Daerah Kardinah Kota Tegal",
+    "coordinates": {
+      "latitude": -6.884407,
+      "longitude": 109.135388
+    }
+  },
+  {
+    "title": "RSUP Dr. Sardjito",
+    "coordinates": {
+      "latitude": -7.768319,
+      "longitude": 110.373474
+    }
+  },
+  {
+    "title": "RSUD Panembahan Senopati",
+    "coordinates": {
+      "latitude": -7.892562,
+      "longitude": 110.338129
+    }
+  },
+  {
+    "title": "RSUD Wonosari",
+    "coordinates": {
+      "latitude": -7.961606,
+      "longitude": 110.602929
+    }
+  },
+  {
+    "title": "Rumah Sakit Umum Daerah Wates",
+    "coordinates": {
+      "latitude": -7.858558,
+      "longitude": 110.147969
+    }
+  },
+  {
+    "title": "RSUD dr. Soebandi",
+    "coordinates": {
+      "latitude": -8.151712,
+      "longitude": 113.715002
+    }
+  },
+  {
+    "title": "RSUD Kabupaten Kediri",
+    "coordinates": {
+      "latitude": -7.758162,
+      "longitude": 112.176071
+    }
+  },
+  {
+    "title": "RSUD Dr. Soetomo",
+    "coordinates": {
+      "latitude": -7.267724,
+      "longitude": 112.758521
+    }
+  },
+  {
+    "title": "RSUD Dr.Soedono Madiun",
+    "coordinates": {
+      "latitude": -7.626064,
+      "longitude": 111.523979
+    }
+  },
+  {
+    "title": "RSUD Dr. Saiful Anwar Malang",
+    "coordinates": {
+      "latitude": -7.972312,
+      "longitude": 112.631546
+    }
+  },
+  {
+    "title": "RSUD Dr. R. KOESMA Tuban",
+    "coordinates": {
+      "latitude": -6.898492,
+      "longitude": 112.046498
+    }
+  },
+  {
+    "title": "RSUD Blambangan",
+    "coordinates": {
+      "latitude": -8.208111,
+      "longitude": 114.366036
+    }
+  },
+  {
+    "title": "RSUD Dr R. Sosodoro Djatikoesoemo Bojonegoro",
+    "coordinates": {
+      "latitude": -7.159389,
+      "longitude": 111.89963
+    }
+  },
+  {
+    "title": "RSUD Dr. Iskak Kab. Tulungagung",
+    "coordinates": {
+      "latitude": -8.054616,
+      "longitude": 111.918101
+    }
+  },
+  {
+    "title": "Rumah Sakit Umum Pusat Sanglah",
+    "coordinates": {
+      "latitude": -8.675619,
+      "longitude": 115.213193
+    }
+  },
+  {
+    "title": "Rumah Sakit Umum Daerah Sanjiwani Gianyar",
+    "coordinates": {
+      "latitude": -8.536997,
+      "longitude": 115.322564
+    }
+  },
+  {
+    "title": "BRSU Tabanan Bali",
+    "coordinates": {
+      "latitude": -8.538888,
+      "longitude": 115.132189
+    }
+  },
+  {
+    "title": "RSUD Kabupaten Buleleng",
+    "coordinates": {
+      "latitude": -8.119542,
+      "longitude": 115.092435
+    }
+  },
+  {
+    "title": "RSUD Provinsi NTB",
+    "coordinates": {
+      "latitude": -8.607104,
+      "longitude": 116.133011
+    }
+  },
+  {
+    "title": "RSUD Kota Bima",
+    "coordinates": {
+      "latitude": -8.449913,
+      "longitude": 118.732918
+    }
+  },
+  {
+    "title": "Rumah Sakit Umum Dr. R Sudjono",
+    "coordinates": {
+      "latitude": -8.650364,
+      "longitude": 116.528403
+    }
+  },
+  {
+    "title": "RSUD Praya",
+    "coordinates": {
+      "latitude": -8.701965,
+      "longitude": 116.295184
+    }
+  },
+  {
+    "title": "RSUD Prof. Dr. W Z Johannes Kupang",
+    "coordinates": {
+      "latitude": -10.168005,
+      "longitude": 123.585756
+    }
+  },
+  {
+    "title": "Rumah Sakit Umum Daerah (RSUD) Dr. TC Hillers",
+    "coordinates": {
+      "latitude": -8.622131,
+      "longitude": 122.204286
+    }
+  },
+  {
+    "title": "RSUD Komodo Labuan Bajo",
+    "coordinates": {
+      "latitude": -8.540931,
+      "longitude": 119.896251
+    }
+  },
+  {
+    "title": "RSUD Dr. Soedarso Pontianak",
+    "coordinates": {
+      "latitude": -0.061352,
+      "longitude": 109.364563
+    }
+  },
+  {
+    "title": "RSUD Dr. Abdul Aziz",
+    "coordinates": {
+      "latitude": 0.895688,
+      "longitude": 108.972696
+    }
+  },
+  {
+    "title": "RSUD Ade Mohammad Djoen Sintang",
+    "coordinates": {
+      "latitude": 0.07954,
+      "longitude": 111.495957
+    }
+  },
+  {
+    "title": "RSUD Dr. Agoesdjam Ketapang",
+    "coordinates": {
+      "latitude": -1.832457,
+      "longitude": 109.967476
+    }
+  },
+  {
+    "title": "Rumah Sakit Umum Daerah Sultan Imanuddin",
+    "coordinates": {
+      "latitude": -2.691608,
+      "longitude": 111.6324
+    }
+  },
+  {
+    "title": "Rumah Sakit Umum Daerah Dr. Doris Sylvanus",
+    "coordinates": {
+      "latitude": -2.210258,
+      "longitude": 113.922463
+    }
+  },
+  {
+    "title": "RSUD Dr Murjani Sampit",
+    "coordinates": {
+      "latitude": -2.542497,
+      "longitude": 112.949043
+    }
+  },
+  {
+    "title": "Rumah Sakit Umum Daerah Ulin Banjarmasin",
+    "address": "",
+    "phone": "",
+    "coordinates": {
+      "latitude": -3.322488,
+      "longitude": 114.601102
+    }
+  },
+  {
+    "title": "RSUD Idaman Banjarbaru",
+    "address": "",
+    "phone": "",
+    "coordinates": {
+      "latitude": -3.460271,
+      "longitude": 114.800816
+    }
+  },
+  {
+    "title": "RSUD Panglima Sebaya",
+    "address": "",
+    "phone": "",
+    "coordinates": {
+      "latitude": -1.873224,
+      "longitude": 116.178654
+    }
+  },
+  {
+    "title": "RSUD Taman Husada Bontang",
+    "address": "",
+    "phone": "",
+    "coordinates": {
+      "latitude": 0.142956,
+      "longitude": 117.447874
+    }
+  },
+  {
+    "title": "RSUD Dr. Kanujoso Djatiwibowo",
+    "address": "",
+    "phone": "",
+    "coordinates": {
+      "latitude": -1.225215,
+      "longitude": 116.868125
+    }
+  },
+  {
+    "title": "Rumah Sakit Umum Daerah Abdul Wahab Sjahranie",
+    "address": "",
+    "phone": "",
+    "coordinates": {
+      "latitude": -0.403946,
+      "longitude": 117.14654
+    }
+  },
+  {
+    "title": "RSUD Aji Muhammad Parikesit",
+    "address": "",
+    "phone": "",
+    "coordinates": {
+      "latitude": -0.438728,
+      "longitude": 117.012879
+    }
+  },
+  {
+    "title": "BLUD RSD dr. H. SOEMARNO SOSROATMODJO",
+    "address": "",
+    "phone": "",
+    "coordinates": {
+      "latitude": 2.830564,
+      "longitude": 117.380965
+    }
+  },
+  {
+    "title": "RSUD Tarakan",
+    "address": "",
+    "phone": "",
+    "coordinates": {
+      "latitude": 3.322368,
+      "longitude": 117.604299
+    }
+  },
+  {
+    "title": "Cathlab RSUD. Prof. Dr. H. Aloei Saboe Kota Gorontalo",
+    "address": "",
+    "phone": "",
+    "coordinates": {
+      "latitude": 0.555836,
+      "longitude": 123.084122
+    }
+  },
+  {
+    "title": "IGD RSUP Prof. Dr. R. D. Kandou Manado Sulawesi Utara",
+    "address": "",
+    "phone": "",
+    "coordinates": {
+      "latitude": 1.453778,
+      "longitude": 124.808178
+    }
+  },
+  {
+    "title": "Rumah Sakit Umum Dr. Sam Ratulangi",
+    "address": "",
+    "phone": "",
+    "coordinates": {
+      "latitude": 1.309958,
+      "longitude": 124.916586
+    }
+  },
+  {
+    "title": "RSUP Ratatotok Buyat",
+    "address": "",
+    "phone": "",
+    "coordinates": {
+      "latitude": 0.869602,
+      "longitude": 124.699724
+    }
+  },
+  {
+    "title": "Rumah Sakit Umum Daerah Kotamobagu",
+    "address": "",
+    "phone": "",
+    "coordinates": {
+      "latitude": 0.708444,
+      "longitude": 124.307291
+    }
+  },
+  {
+    "title": "RSUD Provinsi Sulawesi Barat",
+    "address": "",
+    "phone": "",
+    "coordinates": {
+      "latitude": -2.689694,
+      "longitude": 118.862712
+    }
+  },
+  {
+    "title": "Rumah Sakit Umum Daerah Kotamobagu",
+    "address": "",
+    "phone": "",
+    "coordinates": {
+      "latitude": 0.708423,
+      "longitude": 124.307281
+    }
+  },
+  {
+    "title": "RSUD Kab. Banggai Luwuk",
+    "address": "",
+    "phone": "",
+    "coordinates": {
+      "latitude": -0.933825,
+      "longitude": 122.822164
+    }
+  },
+  {
+    "title": "RSU Mokopido Toli-Toli",
+    "address": "",
+    "phone": "",
+    "coordinates": {
+      "latitude": 1.036212,
+      "longitude": 120.822798
+    }
+  },
+  {
+    "title": "Rumah Sakit Umum Daerah (RSUD) Kolonedale",
+    "address": "",
+    "phone": "",
+    "coordinates": {
+      "latitude": -1.972148,
+      "longitude": 121.336882
+    }
+  },
+  {
+    "title": "RSUD Anutapura Palu",
+    "address": "Jl. Kangkung No.1 Donggala Kodi, Palu, Kota Palu, Sulawesi Tengah 94111",
+    "phone": "(0451) 460570",
+    "coordinates": {
+      "latitude": -0.899776,
+      "longitude": 119.849116
+    }
+  },
+  {
+    "title": "RSUP Dr. Wahidin Sudirohusodo",
+    "address": "Jl. Perintis Kemerdekaan No.11 Tamalanrea Jaya, Kec. Tamalanrea, Kota Makassar, Sulawesi Selatan 90245",
+    "phone": "(0411) 584677",
+    "coordinates": {
+      "latitude": -5.134459,
+      "longitude": 119.493186
+    }
+  },
+  {
+    "title": "RSUD ANDI MAKKASAU Parepare",
+    "address": "Jl. Nurussamawati No.9 Bumi Harapan, Kec. Bacukiki Bar., Kota Pare-Pare, Sulawesi Selatan 91122",
+    "phone": "(0401) 27643",
+    "coordinates": {
+      "latitude": -4.034994,
+      "longitude": 119.633871
+    }
+  },
+  {
+    "title": "RSUD Lakipadada Toraja",
+    "address": "Jl. Pongtiku, Tambunan, Makale Utara, Kabupaten Tana Toraja, Sulawesi Selatan 91812",
+    "phone": "(0423) 22264",
+    "coordinates": {
+      "latitude": -3.073167,
+      "longitude": 119.867725
+    }
+  },
+  {
+    "title": "RSUD Kab. Sinjai",
+    "address": "Jl. Jenderal Sudirman No.47, Biringere, Sinjai Utara, Kabupaten Sinjai, Sulawesi Selatan 92615",
+    "phone": "(0482) 21132",
+    "coordinates": {
+      "latitude": -5.128205,
+      "longitude": 120.249159
+    }
+  },
+  {
+    "title": "Rumah Sakit UNHAS Gedung E-F",
+    "address": "Jl. Perintis Kemerdekaan No.KM 10, Tamalanrea Indah, Kec. Tamalanrea, Kota Makassar, Sulawesi Selatan 90245",
+    "phone": "(0411) 591331",
+    "coordinates": {
+      "latitude": -5.133036,
+      "longitude": 119.494355
+    }
+  },
+  {
+    "title": "RSUD Labuang Baji",
+    "address": "Jl. DR. Ratulangi No.81 Labuang Baji, Kec. Mamajang, Kota Makassar, Sulawesi Selatan 90132",
+    "phone": "(0411) 873482",
+    "coordinates": {
+      "latitude": -5.162292,
+      "longitude": 119.41826
+    }
+  },
+  {
+    "title": "Rumah Sakit Pelamonia Makassar",
+    "address": "Jl. Jend. Sudirman No.27, Pisang Utara, Kec. Ujung Pandang, Kota Makassar, Sulawesi Selatan 90157",
+    "phone": "0811-1782-399",
+    "coordinates": {
+      "latitude": -5.137855,
+      "longitude": 119.414845
+    }
+  },
+  {
+    "title": "RS.Dr.Tadjuddin Chalid",
+    "address": "Pajjaiang Daya, Jl. Paccerakkang No.67, Paccerakkang, Kec. Biringkanaya, Kota Makassar, Sulawesi Selatan 90242",
+    "phone": "(0411) 512902",
+    "coordinates": {
+      "latitude": -5.110963,
+      "longitude": 119.516906
+    }
+  },
+  {
+    "title": "Rumah Sakit Umum Daerah Kota Kendari",
+    "address": "Jl. Z.A. Sugianto No. 39., Kambu, Kendari, Kota Kendari, Sulawesi Tenggara 93111",
+    "phone": "Nomor tidak ada",
+    "coordinates": {
+      "latitude": -3.986235,
+      "longitude": 122.53324
+    }
+  },
+  {
+    "title": "RSUD Dr. M. Haulussy",
+    "address": "Jl. Dr. Kayadoe, Benteng, Nusaniwe, Kel Benteng, Nusaniwe, Kota Ambon, Maluku",
+    "phone": "(0911) 344871",
+    "coordinates": {
+      "latitude": -3.708331,
+      "longitude": 128.165515
+    }
+  },
+  {
+    "title": "RSUP Dr. J. Leimena",
+    "address": "Jalan R. Suprapto No.123, Rumah Tiga, Tlk. Ambon, Kota Ambon, Maluku",
+    "phone": "Nomor tidak ada",
+    "coordinates": {
+      "latitude": -3.661167,
+      "longitude": 128.186509
+    }
+  },
+  {
+    "title": "RSUD Dr. Chasan Basoeri Ternate",
+    "address": "Jl. Cempaka, Tanah Tinggi Bar., Ternate Sel., Kota Ternate, Maluku Utara",
+    "phone": "(0921) 3121281",
+    "coordinates": {
+      "latitude": 0.782255,
+      "longitude": 127.375744
+    }
+  },
+  {
+    "title": "RUMAH SAKIT UMUM DAERAH SOFIFI",
+    "address": "Guraping, Oba Utara, Kota Tidore Kepulauan, Maluku Utara",
+    "phone": "Nomor tidak ada",
+    "coordinates": {
+      "latitude": 0.758946,
+      "longitude": 127.583928
+    }
+  },
+  {
+    "title": "Rumah Sakit Umum Daerah (RSUD) Dok II Jayapura",
+    "address": "Jl. Kesehatan No.1 Dok II, Bayangkara, Jayapura Utara, Kota Jayapura, Papua",
+    "phone": "(0967) 533616",
+    "coordinates": {
+      "latitude": -2.534768,
+      "longitude": 140.710415
+    }
+  },
+  {
+    "title": "RSUD Kabupaten Nabire",
+    "address": "Jl. R.E. Martadinata, Siriwini, Kec. Nabire, Kabupaten Nabire, Papua 98816",
+    "phone": "(0984) 21845",
+    "coordinates": {
+      "latitude": -3.342025,
+      "longitude": 135.529586
+    }
+  },
+  {
+    "title": "RSUD MERAUKE",
+    "address": "Jl. Soekarjo Wiryopranoto No.1 Maro, Kec. Merauke, Kabupaten Merauke, Papua 99613",
+    "phone": "(0971) 321124",
+    "coordinates": {
+      "latitude": -8.481569,
+      "longitude": 140.388784
+    }
+  },
+  {
+    "title": "Rumah Sakit Umum Daerah Manokwari",
+    "address": "Jl. Siliwangi No.1 Manokwari Bar., Kabupaten Manokwari, Papua Bar. 98312",
+    "phone": "(0986) 215133",
+    "coordinates": {
+      "latitude": -0.868404,
+      "longitude": 134.078
+    }
+  },
+  {
+    "title": "RSUD Sorong",
+    "address": "Jl. Kesehatan No.36 Kp. Baru, Kec. Sorong, Kota Sorong, Papua Bar. 98411",
+    "phone": "(0951) 321850",
+    "coordinates": {
+      "latitude": -0.869238,
+      "longitude": 131.246833
+    }
+  }
+]
